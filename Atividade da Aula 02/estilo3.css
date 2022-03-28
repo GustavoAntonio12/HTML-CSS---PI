@@ -1,0 +1,31 @@
+body{
+    background-color: #D3D3D3;
+}
+.b{
+    background-color: #FFFFFF;
+    height: 500px;
+    width: 50%;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.c{
+    background-color: #FFFF00;
+    height: 50px;
+    width: 30%;
+}
+.d{
+    background-color: rgb(255, 140, 0);
+    height: 100px;
+    width: 30%;
+}
+.e{
+    background-color: rgb(0, 255, 0);
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}

@@ -1,0 +1,27 @@
+.a{
+    background-color: #C59FF1; 
+    width: 700px; 
+    height: 700px;
+}
+.b{
+    background-color:  #10EE90; 
+    width: 80%; 
+    height: 80%;
+}
+.c{
+    color: #FFF1F2; 
+    background-color: #00FF00; 
+    font-size: 50px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    font-weight: bold;
+}
+.d{
+    width: 80%;
+     height: 700px; 
+     background-color: RGB(123, 213, 230);
+}
+.e{
+    width: 700px; 
+    height: 80%; 
+    background-color: RGB(0,0,255);
+}
